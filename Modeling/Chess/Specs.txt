@@ -1,0 +1,18 @@
+Chess Specs
+
+Recommended height of pieces:
+    King - 9.5cm | D = 3.8 - 4.75 | Final: 4.5cm base
+    Queen - 8.5cm | D = 3.4 - 4.25 | Final: 4cm base
+    Bishop - 7cm | D = 2.8 - 3.5 | Final: 4cm base
+    Knight - 6cm | D = 2.4 - 3 | Final: 4cm base
+    Rook - 5.5cm | D = 2.2 - 2.75 | Final: 4cm base
+    Pawn - 5 cm | D = 2 - 2.5 | Final: 3cm base
+Diameter of the piece''s base should measure 40-50%.
+
+Table:
+    King's base is aprox 75% of square.
+    Each square side should measure 5cm to 6cm, should be at least twice the diameter of a paw's base.
+    Decision: 6cm
+    The length of the table is 110cm.a
+    The width is 85cm.
+    The height is 74cm.
