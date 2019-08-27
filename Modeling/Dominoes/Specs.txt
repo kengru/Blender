@@ -1,0 +1,32 @@
+5.03 tall
+2.54 wide
+0.8 deep
+
+3.78 middle on top
+1.25 middle on bottom
+
+dominoes case
+4.76 x 6.67 x 19.35
+lid
+0.7 x 6.16 x 19.9
+5.1162 z-loc
+
+holes 
+x 0.341
+0.002 scale
+
+lower half
+top left
+z 1.9
+y -0.65
+bottom right
+z 0.6
+y 0.65
+
+top half
+top left
+z 4.44
+y -0.65
+bottom right
+z 3.13
+y 0.65
